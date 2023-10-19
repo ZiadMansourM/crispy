@@ -1,0 +1,6 @@
+**/.venv
+**/dataset
+**/models
+**/.DS_Store
+**/__pycache__
+**/confusion-matrices
